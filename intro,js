@@ -1,0 +1,7 @@
+const count = 10
+if(count < 10){
+    console.log("smol")
+}
+else{
+    console.log("big")
+}

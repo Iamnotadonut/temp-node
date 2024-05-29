@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "main": "function.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "temp-node"
+  },
+  "author": "me",
+  "license": "ISC",
+  "description": ""
+}
